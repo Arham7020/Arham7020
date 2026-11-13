@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About
 
-Full-stack developer who builds web apps, automation tools and bots. I like shipping things that solve a real problem, from event booking platforms to Discord bots and Android apps.
+Full-stack developer who builds web apps, automation tools and bots. I like shipping things that solve a real problem, from event booking platforms to Discord bots and Web Applications.
 
 - 🌱 Currently sharpening my MERN stack and backend skills
 - 🛠️ Open to freelance projects and collaborations
