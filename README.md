@@ -44,7 +44,6 @@ Full-stack developer who builds web apps, automation tools and bots. I like ship
 <div align="center">
 
 <a href="https://github.com/Arham7020/BookMyEvent">
-  <img src="Untitled.png" alt="BookMyEvent" width="90%" />
 </a>
 
 **[BookMyEvent](https://github.com/Arham7020/BookMyEvent)**: a full-stack MERN event booking platform with JWT auth, email OTP verification, search and filters, and an admin panel.
