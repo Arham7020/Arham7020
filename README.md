@@ -12,4 +12,4 @@ Full-stack developer building web apps, automation tools, and bots.
 - **[BookMyEvent](https://github.com/Arham7020/BookMyEvent)**: MERN event booking platform with auth and email OTP
 
 ## 📫 Get in touch
-[Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/yourname)
+[Email](notarham7020@gmail.com) · [LinkedIn](www.linkedin.com/in/syed-arham-68b421393)
